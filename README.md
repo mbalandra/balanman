@@ -15,11 +15,18 @@ QUICK VIEW OF THE ROAD MAP & FUTURE OF THIS REPO:
 
 
 - DAILY TASKS for LINUX/UNIX OS Automation Scripts
-    - SYSDASHBOARD.sh will be a menu driven automation dashboard, built in BASH to manage an Administrators system environment 
-      - set_path.sh (completed)
-      - userdel script+weekly+cron script/built in menu
-      - useradd+createhomeDIR+genrandompwd script (started)
-      - disk space monitoring DISKS/FS/PART
-    
-  LOTS MORE COMING !!!
+    - SYSDASHBOARD.sh will be a menu driven automation dashboard, built in BASH to manage an Administrators system environment
+        - USER & ACCOUNT:
+            - set_path.sh (completed)
+            - userdel.sh +rmhomeDIR+weekly+cronjobchecks
+            - useradd+createhomeDIR+genrandompwd script (started)
+        - DISKS & FILE SYSTEMS:    
+            - disk space monitoring DISKS/FS/PART
+            - chkdsk.sh check disk space
+        - NETWORK & NETWORK PERFORMANCE
+            - nmap_p21_scan.sh (90%)  
+  
+
+
+LOTS MORE COMING !!!
 
