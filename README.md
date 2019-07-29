@@ -1,7 +1,6 @@
 # balanman
 Marlon Balandra's Code &amp; Script Libraries
-This Repository is being written by me and will be a collection of my DEV-OPS toolbox. I have been in the SYSTEMS side of IT for over 14 years professional and over 37 years as a hobby.
-My goal is to write scripts to automate everything that can be automated. I am writing all my scripts mostly in BASH & korn for now. I will eventually start uploading Python & Ruby scripts, as I come across needs and wants.  
+This Repository is being written by me and will be a collection of my DEV-OPS toolbox. My goal is to write scripts to automate everything that can be automated. I am writing all my scripts mostly in BASH & korn for now. I will eventually start uploading Python & Ruby scripts, as I come across needs and wants.  
 
 QUICK VIEW OF THE ROAD MAP & FUTURE OF THIS REPO:
 
